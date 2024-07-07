@@ -1,0 +1,12 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello_world.js",
+  "scripts": {
+    "start": "node ./ecommerce.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
